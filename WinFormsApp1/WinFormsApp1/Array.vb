@@ -48,9 +48,37 @@
 
     Private Sub oefening1()
 
+        Dim v As Integer
+        Dim declaredArray(9) As Integer
+
+        Dim text As String = " "
+
+        For v = 0 To 9
+            declaredArray(v) = InputBox("geef een nummer")
+            text += (" " & declaredArray(v))
+        Next
+
+        MsgBox(text)
+
+
+        Dim kleuren() As String = {"blauw", "groen", "geel", "bruin", "oranje"}
+        For v = 0 To 4
+            MsgBox(kleuren(v) & " ")
+        Next
+
+
     End Sub
 
     Private Sub oefening2()
+        Dim Array() As Integer = {15, 19, 23, 27, 31, 35, 39}
+        Dim v As Integer
+        Dim text As String = " "
+
+        For v = 0 To 6
+            text += (" " & Array(v))
+        Next
+
+
 
     End Sub
 

@@ -19,3 +19,24 @@ C:\Users\corstens_o\source\repos\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\D
 C:\Users\corstens_o\source\repos\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Users\corstens_o\source\repos\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\corstens_o\source\repos\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Array.resources
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Functie.resources
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Iteratie.resources
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Selectie.resources
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kevin\fork\github owen\LearnGitHubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

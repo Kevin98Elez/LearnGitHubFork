@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\corstens_o\\source\\repos\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {}
+    "C:\\Users\\kevin\\fork\\github owen\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\corstens_o\\source\\repos\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {
+    "C:\\Users\\kevin\\fork\\github owen\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\corstens_o\\source\\repos\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "projectUniqueName": "C:\\Users\\kevin\\fork\\github owen\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\corstens_o\\source\\repos\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
-        "packagesPath": "C:\\Users\\corstens_o\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\corstens_o\\source\\repos\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\kevin\\fork\\github owen\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\fork\\github owen\\LearnGitHubFork\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\corstens_o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
