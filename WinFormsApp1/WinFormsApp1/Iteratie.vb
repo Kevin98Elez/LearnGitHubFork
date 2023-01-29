@@ -1,4 +1,6 @@
-﻿Public Class Iteratie
+﻿Imports System.Diagnostics.Eventing.Reader
+
+Public Class Iteratie
     Dim nummer As Integer
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim myForm As New Form1
@@ -130,40 +132,109 @@
 
     Private Sub oefening4()
 
-        Dim random As Integer = 50
+        Dim random As Integer
         Dim guess As Integer
 
-
-
+        random = CInt(Math.Floor((100 - 1 + 1) * Rnd())) + 1
+        MsgBox(random)
         'random = Math.Floor(Math.random() * 100) + 1
         Do Until guess = random
             guess = InputBox("raad het nummer")
             If guess < random Then
-                MsgBox("te laag)")
-            Else
+                MsgBox("te laag")
+            ElseIf guess > random Then
                 MsgBox("te hoog")
+            Else
+
+                MsgBox("correct")
             End If
+
+
         Loop
 
-        MsgBox("correct")
+
 
 
     End Sub
 
     Private Sub oefening5()
+        Dim v As Integer
+        Dim getal(9) As Integer
+        Dim eerste As Integer = InputBox(" geef getal 1 in")
+        Dim grootste As Integer = eerste
+        Dim kleinste As Integer = eerste
 
+        For v = 0 To 8
+            getal(v) = InputBox("geef getal " & v + 2 & " in")
+            If getal(v) < kleinste Then
+                kleinste = getal(v)
+            End If
+
+            If getal(v) > grootste Then
+                grootste = getal(v)
+            End If
+        Next
+
+        MsgBox("het kleinste getal is " & kleinste & vbCrLf & "het grootste getal is " & grootste)
     End Sub
 
     Private Sub oefening6()
+        Dim v As Integer = -1
+        Dim getal As Integer = 1
+
+
+        Do While v < 0
+            v = InputBox("geef een getal in")
+            If v < 0 Then
+                MsgBox("dit is een negatief getal, geef aub een positief getal in")
+
+            End If
+        Loop
+        MsgBox("v =" & v)
+
+
+        Do While v > 0
+            getal *= v
+            v -= 1
+        Loop
+
+
+        MsgBox("de faculteit is " & getal)
+
 
     End Sub
 
     Private Sub oefening7()
+        Dim getal_1 As Integer = 0
+        Dim getal_2 As Integer = 1
+        Dim getal_3 As Integer = 1
+        Dim schrijf As String = getal_1
 
+        Do While getal_3 < 1000
+
+
+            schrijf += ", " & getal_3
+            getal_3 = getal_1 + getal_2
+            getal_1 = getal_2
+            getal_2 = getal_3
+
+
+        Loop
+
+        MsgBox(schrijf)
     End Sub
 
     Private Sub oefening8()
+        Dim x As Integer = InputBox("geef een getal in")
+        Dim y As Integer = 0
+        Dim schrijf As String = ""
 
+        Do While y <= x
+            schrijf += (y & " * " & x & " = " & x * y & vbCrLf)
+            y += 1
+
+        Loop
+        MsgBox(schrijf)
     End Sub
 
     Private Sub oefening9()
