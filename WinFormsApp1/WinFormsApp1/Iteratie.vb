@@ -135,7 +135,7 @@ Public Class Iteratie
         Dim random As Integer
         Dim guess As Integer
 
-        random = CInt(Math.Floor((100 - 1 + 1) * Rnd())) + 1
+        random = CInt(Math.Floor(Math.Rnd() * 100)) + 1
         MsgBox(random)
         'random = Math.Floor(Math.random() * 100) + 1
         Do Until guess = random
